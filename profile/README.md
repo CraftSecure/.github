@@ -1,12 +1,1 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![Example card](https://fancy-readme-stats.vercel.app/api?username=blackdevreal&dark_bg=3&theme=city&email=A%20Minecraft%20AntiCheat%20by%20by%20BlackDev&show_icons=false&title=CraftSecure&description=&include_all_commits=false&show_icons=false&update=1)](https://github.com/CraftSecure)
